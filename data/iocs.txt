@@ -1,0 +1,4 @@
+# One IOC per line. Defanged IOCs like example[.]com also work.
+8.8.8.8
+example.com
+275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f

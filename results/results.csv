@@ -1,0 +1,4 @@
+ioc,type,malicious,suspicious,harmless,undetected,verdict
+8.8.8.8,ip,0,0,53,38,CLEAN
+example.com,domain,0,0,61,30,CLEAN
+275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f,hash,66,0,0,2,MALICIOUS
